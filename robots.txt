@@ -58,5 +58,5 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://nickelbridge.id/sitemap.xml
-# AI-readable summary: https://nickelbridge.id/llms.txt
+Sitemap: https://nickelbridge.maleobulava.id/sitemap.xml
+# AI-readable summary: https://nickelbridge.maleobulava.id/llms.txt
